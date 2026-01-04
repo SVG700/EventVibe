@@ -182,8 +182,8 @@ This section explains how users interact with the platform after deployment.
 ---
 ## Contact / Support
 
-- **Madhan B V** – [GitHub](https://github.com/MadhanBV) – Email: madhanbv.cse@gmail.com
 - **Samhith V Gupta** – [GitHub](https://github.com/SVG700) – Email: samhithvgupta@gmail.com
+- **Madhan B V** – [GitHub](https://github.com/MadhanBV) – Email: madhanbv.cse@gmail.com
 - **Avyum Chettri** - [GitHub](https://github.com/AlvinChhetri/AlvinChhetri) - Email: alvinch431@gmail.com
 
 ##  Acknowledgement
