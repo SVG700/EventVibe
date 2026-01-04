@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Social Common-Ground Finder Logo" width="180"/>
+  <img src="logo.jpeg" alt="Social Common-Ground Finder Logo" width="180"/>
 </p>
 
 # Event Vibe
